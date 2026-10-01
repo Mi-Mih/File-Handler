@@ -47,7 +47,7 @@ class FileHandlier:
 
 
 if __name__ == '__main__':
-    path = 'C:/Users/.../PycharmProjects/.../task_data'
+    path = '/.../task_data'
     handlier = FileHandlier()
     handlier.main_handlier(path)
 
